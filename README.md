@@ -190,6 +190,3 @@ http://localhost:8501
 
 ---
 
-## Resume One-Liner
-
-**Built an AI-powered data cleaning platform using FastAPI, PostgreSQL, and Streamlit that automates CSV analysis, cleaning, quality scoring, and activity logging.**
