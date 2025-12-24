@@ -70,6 +70,9 @@ ai-data-cleaning-assistant/
 │   │   └── pipeline_routes.py
 │   ├── services/
 │   │   └── data_cleaning.py
+|   ├──  utils/
+         ├── activity_logger.py
+│        └── security.py
 │
 ├── frontend/
 │   └── streamlit_app.py
